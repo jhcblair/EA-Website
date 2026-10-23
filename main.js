@@ -128,7 +128,7 @@
       })
       .catch(function () {
         show("bad", "Your request didn't go through.",
-          "Please try again in a moment, or call us at (615) 722-7195 or email jblairbookkeeping@gmail.com.");
+          "Please try again in a moment, or call us at (615) 722-7195 or email info@eagleaccountingtn.com.");
       })
       .then(function () {
         submit.disabled = false;
